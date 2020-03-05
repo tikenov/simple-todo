@@ -1,7 +1,7 @@
 {
+  "homepage": "https://tikenov.github.io/simple-todo",
   "name": "simple-todo",
   "version": "0.1.0",
-  "homepage": "https://tikenov.github.io/simple-todo",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.5",
